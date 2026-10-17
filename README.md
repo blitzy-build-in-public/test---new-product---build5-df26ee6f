@@ -1,2 +1,4 @@
-# test---new-product---build5-df26ee6f
-Created by Blitzy
+# Blitzy
+
+Prints "Welcome to Blitzy". No dependencies; requires Node.js.
+Run: node index.js
